@@ -1,6 +1,3 @@
-### Hi there 👋
-
-# TasfiaNausheen
 <h1 align="center">Hi 👋, I'm Tasfia</h1>
 
 ![Currently Working](https://media.giphy.com/media/5XQf51Rua3j4Q/giphy.gif)
