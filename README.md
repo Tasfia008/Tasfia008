@@ -2,8 +2,10 @@
 
 # TasfiaNausheen
 <h1 align="center">Hi 👋, I'm Tasfia</h1>
-<h3 align="center">An undergrad student currently pursuing B. Sc. degree in Computer Science and Engineering in North South University.</h3>
+
 ![Currently Working](https://media.giphy.com/media/5XQf51Rua3j4Q/giphy.gif)
+
+<h3 align="center">An undergrad student currently pursuing B. Sc. degree in Computer Science and Engineering in North South University.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tasfia008&label=Profile%20views&color=0e75b6&style=flat" alt="tasfia008" /> </p>
 
